@@ -1,0 +1,13 @@
+.Label {
+  color: rgb(14, 14, 37);
+  font-size: 24px;
+  margin-left: 35px;
+}
+
+.Input {
+  display: block;
+  margin-left: 35px;
+  margin-top: 10px;
+  width: 400px;
+  padding: 5px;
+}
