@@ -14,7 +14,7 @@ const Contacts = ({ contacts, onDeleteContact }) => (
           className={styles.DeleteBtn}
           onClick={() => onDeleteContact(contact.id)}
           >
-          Удалить
+          Delete
           </button>
       </li>
       ))
